@@ -106,7 +106,12 @@ section h2 {
     background: url('../assets/images/woman-code.png') no-repeat;
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     height: 23.75rem;
+
+    border-top: 1px solid #31A8DD;
+    border-bottom: 1px solid #31A8DD;
+    
     display: flex;
     align-items: center;
     padding: 0 6.25rem;

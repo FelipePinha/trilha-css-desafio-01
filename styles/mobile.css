@@ -1,11 +1,10 @@
 @media(max-width: 768px) {
-    h1 {
+    .banner-content h1 {
         font-size: 1.875rem;
     }
 
-    h2 {
+    section h2 {
         font-size: 1.375rem;
-        color: red;
     }
     
     .modules-list {
@@ -26,6 +25,6 @@
     }
 
     #transform-world {
-        padding: 0;
+        padding: 10px;
     }
 }
